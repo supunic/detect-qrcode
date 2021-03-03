@@ -22,3 +22,8 @@ deactivate
 ```sh
 python main.py 'images/xxxx.jpg'
 ```
+
+## version
+- python 3.7
+- pyzbar 0.1.8
+- pillow 8.1.1
